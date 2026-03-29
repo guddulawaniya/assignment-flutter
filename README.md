@@ -18,6 +18,11 @@ A modern, high-performance Movie Discovery application built with **Flutter**. T
     -   **Responsive Design**: Flexible grid layouts that prevent overflow across various screen sizes.
 -   **Robust Performance**: Optimized image caching using `cached_network_image` and resilient error handling for network failures.
 
+## 🎥 Project Demo
+
+Watch a video walkthrough of the application in action:
+**[View Project Demo on Google Drive](https://drive.google.com/file/d/1r_WvERfklSw6aze_Rer5nwVtb8WYvSCu/view?usp=drive_link)**
+
 ## 🛠️ Technology Stack
 
 -   **Language**: Dart
