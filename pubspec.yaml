@@ -1,0 +1,30 @@
+name: assignmentflutter
+description: "Movie Discovery App - Flutter port of React Native assignment"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  # HTTP client (equivalent to axios)
+  http: ^1.2.1
+  # State management (equivalent to Zustand)
+  provider: ^6.1.2
+  # Local storage (equivalent to MMKV)
+  shared_preferences: ^2.3.3
+  # Image caching
+  cached_network_image: ^3.4.1
+  # Shimmer loading (equivalent to SkeletonLoader)
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
